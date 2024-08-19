@@ -1,0 +1,19 @@
+*{
+    text-decoration: none;`xcx
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+    background-color: rgb(41, 41, 41);
+}
+li{
+    list-style-type: none;
+    padding: 5px 20px;
+}
+
+.search{
+    padding: 6px 30px;
+}

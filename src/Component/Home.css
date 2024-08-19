@@ -1,0 +1,10 @@
+.first{
+    display: flex;
+    height: 89.7vh;
+    background-color: red;
+}
+.second{
+    display: flex;
+    height: 89.7vh;
+    background-color: aqua;
+}
