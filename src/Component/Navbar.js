@@ -5,12 +5,7 @@ function Navbar()
 {
     return(
         <div className="navbar">
-            <div>
-                <img src="vipul" alt="vipul" />
-            </div>
-            <div>
-                <input className="search" type="text" placeholder="search here" />
-            </div>
+            
             <li>
                 <Link style={{color:' white', backgroundColor:'grey', padding: '5px 20px', borderRadius:'12px'}} to='/' >Home</Link>
             </li>
